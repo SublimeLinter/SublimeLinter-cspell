@@ -1,7 +1,5 @@
-SublimeLinter-contrib-cspell
-============================
-
-[![Build Status](https://travis-ci.org/hsghori/SublimeLinter-contrib-cspell.svg?branch=master)](https://travis-ci.org/hsghori/SublimeLinter-contrib-cspell)
+SublimeLinter-cspell
+====================
 
 This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [cspell](https://www.npmjs.com/package/cspell). It will be used with files that have the any source code syntax.
 
